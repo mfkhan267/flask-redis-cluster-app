@@ -2,7 +2,7 @@ import time
 import redis
 from flask import Flask, render_template
 import socket
-from redis.cluster import RedisCluster
+from rediscluster import RedisCluster
 
 app = Flask(__name__)
 
@@ -30,4 +30,3 @@ def index():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
-

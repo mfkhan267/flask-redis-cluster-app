@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mfk267/flask-redis-cluster-app:3.0
+        image: mfk267/flask-redis-cluster-app:7.0
         ports:
         - containerPort: 5000
