@@ -1,5 +1,7 @@
 # flask-redis-cluster-app
 
+![image](https://github.com/mfkhan267/flask-redis-cluster-app/assets/77663612/d6af7312-38db-4071-bc3c-ef75d3005401)
+
  git clone https://github.com/mfkhan267/flask-redis-cluster-app.git
  
  cd flask-redis-cluster-app/k8s/
